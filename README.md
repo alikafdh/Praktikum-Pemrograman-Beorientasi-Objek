@@ -7,6 +7,7 @@ Repository ini dibuat dari pembelajaran dan penugasan Mata Kuliah Praktikum Pemr
 ## :book: Daftar Modul
 
 - [x] Modul 1 : Mengenal dan Memulai Java
+- [x] Modul 2 : Pengenalan Objek dan Class
 
 
 ---
